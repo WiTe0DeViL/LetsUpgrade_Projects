@@ -1,0 +1,17 @@
+commands       Usage
+ls 		List the files
+cat 		output the content of a file
+find 		finds whatever we need to be wanted
+locate		locate the file which we are looking for
+ssh		connect with secureshell
+clear		clear content of current terminal
+nano,vim 	command line editor
+sudo 		permission of a sudo user
+su 		root user command
+service		checking dfor the services
+ifconfig 	to view ip address
+hostname 	it similar to ifconfig
+ip a		as wise the same of ipaddress
+echo 		echo back what we gives as input
+cd 		change directory
+
